@@ -1,14 +1,6 @@
 # Assembly Programming Assignment (CAT 2)
 ## ICS 3203: Assembly Language Programming
 
-### Student Details
-- **Name:** Bill Gichuru
-- **Registration Number:** 151339
-- **Course:** BSc. Computer Science
-- **Unit:** ICS 3203 - Assembly Language Programming
-- **Semester:** 3.2
-- **Academic Year:** 2023/2024
-
 ## Project Overview
 This repository contains four assembly language programs that demonstrate various aspects of system-level programming using x86_64 assembly on Linux. Each task focuses on different fundamental concepts of assembly programming.
 
